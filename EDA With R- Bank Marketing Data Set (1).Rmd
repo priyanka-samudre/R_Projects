@@ -277,7 +277,6 @@ ggplot(conversionsPOutcome, aes(x=Previous_Outcome, y=ConversionRate)) +
   labs(title="Conversion Rates by Outcome of the Previous Campaign")
 ```
 
-Obviously, if the previous campaign outcome was successful (the bank probably earned some loyalty), this campaign converted better as well.
 
 ## **Summarizing recommendations for the bank**
 
@@ -305,5 +304,4 @@ Also, I would recommend creating a marketing campaign for people who didn't have
 
 I would highly recommend developing a loyalty program for the existing clients by giving them some bonuses and unique offers. The data shows that loyal clients most likely buy more products.
 
-**THANKS,\
-Future connect training & recruitment ltd.**
+
